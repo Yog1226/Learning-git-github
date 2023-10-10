@@ -1,2 +1,1 @@
-Learning git and github
-1. git learning
+Learning git and github on 10-Oct,23
